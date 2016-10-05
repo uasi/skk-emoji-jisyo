@@ -24,6 +24,11 @@ AquaSKK の環境設定の「辞書」タブを開き、「SKK 辞書(UTF-8)」�
 使い方
 ------
 
-▽モードで絵文字の名前を入力します。名前は [Emoji cheat sheet](http://www.emoji-cheat-sheet.com) に基づいています。
+▽モードで絵文字の名前を入力します。名前の定義は [gemoji gem](https://github.com/github/gemoji) に基づいています。名前と対応する絵文字のリストは [Emoji cheat sheet](http://www.emoji-cheat-sheet.com) で確認できます（ただし gemoji の最新の定義を反映していない場合があります）。
 
 ![Input](https://cloud.githubusercontent.com/assets/22321/3549963/211fd39e-08d2-11e4-8214-3b9a1ea29096.gif)
+
+更新履歴
+--------
+
+- v0.0.4 2016-10-06 絵文字名の定義データを gemoji 3.0.0.rc1 に更新。
