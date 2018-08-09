@@ -1,13 +1,13 @@
 GEM
   remote: https://rubygems.org/
   specs:
-    gemoji (3.0.0.rc1)
+    gemoji (3.0.0)
 
 PLATFORMS
   ruby
 
 DEPENDENCIES
-  gemoji (~> 3.0.0.rc1)
+  gemoji (~> 3.0.0)
 
 BUNDLED WITH
-   1.13.2
+   1.16.3

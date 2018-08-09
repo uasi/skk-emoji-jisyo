@@ -1,7 +1,7 @@
 ;; -*- fundamental -*- ; coding: utf-8 -*-
 ;; Emoji dictionary for SKK system
 ;;
-;; Generated using gemoji 3.0.0.rc1
+;; Generated using gemoji 3.0.0
 ;;
 ;; The MIT License (MIT)
 ;; 
@@ -30,6 +30,9 @@
 -1 /👎/
 100 /💯/
 1234 /🔢/
+1st_place_medal /🥇/
+2nd_place_medal /🥈/
+3rd_place_medal /🥉/
 8ball /🎱/
 a /🅰️/
 ab /🆎/
@@ -42,7 +45,7 @@ airplane /✈️/
 aland_islands /🇦🇽/
 alarm_clock /⏰/
 albania /🇦🇱/
-alembic /⚗/
+alembic /⚗️/
 algeria /🇩🇿/
 alien /👽/
 ambulance /🚑/
@@ -92,9 +95,10 @@ asterisk /*️⃣/
 astonished /😲/
 athletic_shoe /👟/
 atm /🏧/
-atom_symbol /⚛/
+atom_symbol /⚛️/
 australia /🇦🇺/
 austria /🇦🇹/
+avocado /🥑/
 azerbaijan /🇦🇿/
 b /🅱️/
 baby /👶/
@@ -102,11 +106,13 @@ baby_bottle /🍼/
 baby_chick /🐤/
 baby_symbol /🚼/
 back /🔙/
+bacon /🥓/
 badminton /🏸/
 baggage_claim /🛄/
+baguette_bread /🥖/
 bahamas /🇧🇸/
 bahrain /🇧🇭/
-balance_scale /⚖/
+balance_scale /⚖️/
 balloon /🎈/
 ballot_box /🗳/
 ballot_box_with_check /☑️/
@@ -124,6 +130,7 @@ basecampy //
 basketball /🏀/
 basketball_man /⛹️/
 basketball_woman /⛹️‍♀️/
+bat /🦇/
 bath /🛀/
 bathtub /🛁/
 battery /🔋/
@@ -154,6 +161,7 @@ bird /🐦/
 birthday /🎂/
 black_circle /⚫️/
 black_flag /🏴/
+black_heart /🖤/
 black_joker /🃏/
 black_large_square /⬛️/
 black_medium_small_square /◾️/
@@ -188,6 +196,7 @@ bowing_man /🙇/
 bowing_woman /🙇‍♀️/
 bowling /🎳/
 bowtie //
+boxing_glove /🥊/
 boy /👦/
 brazil /🇧🇷/
 bread /🍞/
@@ -212,9 +221,11 @@ business_suit_levitating /🕴/
 busstop /🚏/
 bust_in_silhouette /👤/
 busts_in_silhouette /👥/
+butterfly /🦋/
 cactus /🌵/
 cake /🍰/
 calendar /📆/
+call_me_hand /🤙/
 calling /📲/
 cambodia /🇰🇭/
 camel /🐫/
@@ -227,6 +238,7 @@ canary_islands /🇮🇨/
 cancer /♋️/
 candle /🕯/
 candy /🍬/
+canoe /🛶/
 cape_verde /🇨🇻/
 capital_abcd /🔠/
 capricorn /♑️/
@@ -236,6 +248,7 @@ card_index /📇/
 card_index_dividers /🗂/
 caribbean_netherlands /🇧🇶/
 carousel_horse /🎠/
+carrot /🥕/
 cat /🐱/
 cat2 /🐈/
 cayman_islands /🇰🇾/
@@ -270,6 +283,7 @@ clamp /🗜/
 clap /👏/
 clapper /🎬/
 classical_building /🏛/
+clinking_glasses /🥂/
 clipboard /📋/
 clock1 /🕐/
 clock10 /🕙/
@@ -303,12 +317,13 @@ cloud_with_lightning /🌩/
 cloud_with_lightning_and_rain /⛈/
 cloud_with_rain /🌧/
 cloud_with_snow /🌨/
+clown_face /🤡/
 clubs /♣️/
 cn /🇨🇳/
 cocktail /🍸/
 cocos_islands /🇨🇨/
 coffee /☕️/
-coffin /⚰/
+coffin /⚰️/
 cold_sweat /😰/
 collision /💥/
 colombia /🇨🇴/
@@ -347,6 +362,7 @@ couplekiss_man_woman /💏/
 couplekiss_woman_woman /👩‍❤️‍💋‍👩/
 cow /🐮/
 cow2 /🐄/
+cowboy_hat_face /🤠/
 crab /🦀/
 crayon /🖍/
 credit_card /💳/
@@ -354,13 +370,16 @@ crescent_moon /🌙/
 cricket /🏏/
 croatia /🇭🇷/
 crocodile /🐊/
+croissant /🥐/
+crossed_fingers /🤞/
 crossed_flags /🎌/
-crossed_swords /⚔/
+crossed_swords /⚔️/
 crown /👑/
 cry /😢/
 crying_cat_face /😿/
 crystal_ball /🔮/
 cuba /🇨🇺/
+cucumber /🥒/
 cupid /💘/
 curacao /🇨🇼/
 curly_loop /➰/
@@ -383,6 +402,7 @@ dash /💨/
 date /📅/
 de /🇩🇪/
 deciduous_tree /🌳/
+deer /🦌/
 denmark /🇩🇰/
 department_store /🏬/
 derelict_house /🏚/
@@ -412,16 +432,20 @@ dragon /🐉/
 dragon_face /🐲/
 dress /👗/
 dromedary_camel /🐪/
+drooling_face /🤤/
 droplet /💧/
+drum /🥁/
+duck /🦆/
 dvd /📀/
 e-mail /📧/
+eagle /🦅/
 ear /👂/
 ear_of_rice /🌾/
 earth_africa /🌍/
 earth_americas /🌎/
 earth_asia /🌏/
 ecuador /🇪🇨/
-egg /🍳/
+egg /🥚/
 eggplant /🍆/
 egypt /🇪🇬/
 eight /8️⃣/
@@ -509,10 +533,14 @@ fish /🐟/
 fish_cake /🍥/
 fishing_pole_and_fish /🎣/
 fist /✊/
+fist_left /🤛/
+fist_oncoming /👊/
+fist_raised /✊/
+fist_right /🤜/
 five /5️⃣/
 flags /🎏/
 flashlight /🔦/
-fleur_de_lis /⚜/
+fleur_de_lis /⚜️/
 flight_arrival /🛬/
 flight_departure /🛫/
 flipper /🐬/
@@ -528,12 +556,14 @@ fountain /⛲️/
 fountain_pen /🖋/
 four /4️⃣/
 four_leaf_clover /🍀/
+fox_face /🦊/
 fr /🇫🇷/
 framed_picture /🖼/
 free /🆓/
 french_guiana /🇬🇫/
 french_polynesia /🇵🇫/
 french_southern_territories /🇹🇫/
+fried_egg /🍳/
 fried_shrimp /🍤/
 fries /🍟/
 frog /🐸/
@@ -545,12 +575,12 @@ fu /🖕/
 fuelpump /⛽️/
 full_moon /🌕/
 full_moon_with_face /🌝/
-funeral_urn /⚱/
+funeral_urn /⚱️/
 gabon /🇬🇦/
 gambia /🇬🇲/
 game_die /🎲/
 gb /🇬🇧/
-gear /⚙/
+gear /⚙️/
 gem /💎/
 gemini /♊️/
 georgia /🇬🇪/
@@ -561,17 +591,20 @@ gift /🎁/
 gift_heart /💝/
 girl /👧/
 globe_with_meridians /🌐/
+goal_net /🥅/
 goat /🐐/
 goberserk //
 godmode //
 golf /⛳️/
 golfing_man /🏌️/
 golfing_woman /🏌️‍♀️/
+gorilla /🦍/
 grapes /🍇/
 greece /🇬🇷/
 green_apple /🍏/
 green_book /📗/
 green_heart /💚/
+green_salad /🥗/
 greenland /🇬🇱/
 grenada /🇬🇩/
 grey_exclamation /❕/
@@ -601,6 +634,7 @@ hammer_and_wrench /🛠/
 hamster /🐹/
 hand /✋/
 handbag /👜/
+handshake /🤝/
 hankey /💩/
 hash /#️⃣/
 hatched_chick /🐥/
@@ -692,6 +726,7 @@ kenya /🇰🇪/
 key /🔑/
 keyboard /⌨️/
 keycap_ten /🔟/
+kick_scooter /🛴/
 kimono /👘/
 kiribati /🇰🇮/
 kiss /💋/
@@ -700,6 +735,7 @@ kissing_cat /😽/
 kissing_closed_eyes /😚/
 kissing_heart /😘/
 kissing_smiling_eyes /😙/
+kiwi_fruit /🥝/
 knife /🔪/
 koala /🐨/
 koko /🈁/
@@ -739,6 +775,7 @@ lion /🦁/
 lips /👄/
 lipstick /💄/
 lithuania /🇱🇹/
+lizard /🦎/
 lock /🔒/
 lock_with_ink_pen /🔏/
 lollipop /🍭/
@@ -749,6 +786,7 @@ love_hotel /🏩/
 love_letter /💌/
 low_brightness /🔅/
 luxembourg /🇱🇺/
+lying_face /🤥/
 m /Ⓜ️/
 macau /🇲🇴/
 macedonia /🇲🇰/
@@ -767,6 +805,30 @@ male_detective /🕵️/
 mali /🇲🇱/
 malta /🇲🇹/
 man /👨/
+man_artist /👨‍🎨/
+man_astronaut /👨‍🚀/
+man_cartwheeling /🤸‍♂️/
+man_cook /👨‍🍳/
+man_dancing /🕺/
+man_facepalming /🤦‍♂️/
+man_factory_worker /👨‍🏭/
+man_farmer /👨‍🌾/
+man_firefighter /👨‍🚒/
+man_health_worker /👨‍⚕️/
+man_in_tuxedo /🤵/
+man_judge /👨‍⚖️/
+man_juggling /🤹‍♂️/
+man_mechanic /👨‍🔧/
+man_office_worker /👨‍💼/
+man_pilot /👨‍✈️/
+man_playing_handball /🤾‍♂️/
+man_playing_water_polo /🤽‍♂️/
+man_scientist /👨‍🔬/
+man_shrugging /🤷‍♂️/
+man_singer /👨‍🎤/
+man_student /👨‍🎓/
+man_teacher /👨‍🏫/
+man_technologist /👨‍💻/
 man_with_gua_pi_mao /👲/
 man_with_turban /👳/
 mandarin /🍊/
@@ -774,6 +836,7 @@ mans_shoe /👞/
 mantelpiece_clock /🕰/
 maple_leaf /🍁/
 marshall_islands /🇲🇭/
+martial_arts_uniform /🥋/
 martinique /🇲🇶/
 mask /😷/
 massage /💆/
@@ -788,6 +851,7 @@ medal_sports /🏅/
 mega /📣/
 melon /🍈/
 memo /📝/
+men_wrestling /🤼‍♂️/
 menorah /🕎/
 mens /🚹/
 metal /🤘/
@@ -797,6 +861,7 @@ micronesia /🇫🇲/
 microphone /🎤/
 microscope /🔬/
 middle_finger /🖕/
+milk_glass /🥛/
 milky_way /🌌/
 minibus /🚐/
 minidisc /💽/
@@ -817,6 +882,7 @@ morocco /🇲🇦/
 mortar_board /🎓/
 mosque /🕌/
 motor_boat /🛥/
+motor_scooter /🛵/
 motorcycle /🏍/
 motorway /🛣/
 mount_fuji /🗻/
@@ -832,6 +898,7 @@ mouse2 /🐁/
 movie_camera /🎥/
 moyai /🗿/
 mozambique /🇲🇿/
+mrs_claus /🤶/
 muscle /💪/
 mushroom /🍄/
 musical_keyboard /🎹/
@@ -844,6 +911,7 @@ name_badge /📛/
 namibia /🇳🇦/
 national_park /🏞/
 nauru /🇳🇷/
+nauseated_face /🤢/
 neckbeard //
 necktie /👔/
 negative_squared_cross_mark /❎/
@@ -922,6 +990,7 @@ orange /🍊/
 orange_book /📙/
 orthodox_cross /☦️/
 outbox_tray /📤/
+owl /🦉/
 ox /🐂/
 package /📦/
 page_facing_up /📄/
@@ -933,6 +1002,7 @@ palau /🇵🇼/
 palestinian_territories /🇵🇸/
 palm_tree /🌴/
 panama /🇵🇦/
+pancakes /🥞/
 panda_face /🐼/
 paperclip /📎/
 paperclips /🖇/
@@ -948,6 +1018,7 @@ pause_button /⏸/
 paw_prints /🐾/
 peace_symbol /☮️/
 peach /🍑/
+peanuts /🥜/
 pear /🍐/
 pen /🖊/
 pencil /📝/
@@ -956,6 +1027,7 @@ penguin /🐧/
 pensive /😔/
 performing_arts /🎭/
 persevere /😣/
+person_fencing /🤺/
 person_frowning /🙍/
 person_with_blond_hair /👱/
 person_with_pouting_face /🙎/
@@ -992,6 +1064,7 @@ post_office /🏣/
 postal_horn /📯/
 postbox /📮/
 potable_water /🚰/
+potato /🥔/
 pouch /👝/
 poultry_leg /🍗/
 pound /💷/
@@ -1001,7 +1074,9 @@ pouting_man /🙎‍♂️/
 pouting_woman /🙎/
 pray /🙏/
 prayer_beads /📿/
+pregnant_woman /🤰/
 previous_track_button /⏮/
+prince /🤴/
 princess /👸/
 printer /🖨/
 puerto_rico /🇵🇷/
@@ -1028,6 +1103,7 @@ railway_car /🚃/
 railway_track /🛤/
 rainbow /🌈/
 rainbow_flag /🏳️‍🌈/
+raised_back_of_hand /🤚/
 raised_hand /✋/
 raised_hand_with_fingers_splayed /🖐/
 raised_hands /🙌/
@@ -1052,6 +1128,7 @@ restroom /🚻/
 reunion /🇷🇪/
 revolving_hearts /💞/
 rewind /⏪/
+rhinoceros /🦏/
 ribbon /🎀/
 rice /🍚/
 rice_ball /🍙/
@@ -1061,6 +1138,7 @@ right_anger_bubble /🗯/
 ring /💍/
 robot /🤖/
 rocket /🚀/
+rofl /🤣/
 roll_eyes /🙄/
 roller_coaster /🎢/
 romania /🇷🇴/
@@ -1105,11 +1183,14 @@ seat /💺/
 secret /㊙️/
 see_no_evil /🙈/
 seedling /🌱/
+selfie /🤳/
 senegal /🇸🇳/
 serbia /🇷🇸/
 seven /7️⃣/
 seychelles /🇸🇨/
-shamrock /☘/
+shallow_pan_of_food /🥘/
+shamrock /☘️/
+shark /🦈/
 shaved_ice /🍧/
 sheep /🐑/
 shell /🐚/
@@ -1121,7 +1202,9 @@ shirt /👕/
 shit /💩/
 shoe /👞/
 shopping /🛍/
+shopping_cart /🛒/
 shower /🚿/
+shrimp /🦐/
 sierra_leone /🇸🇱/
 signal_strength /📶/
 singapore /🇸🇬/
@@ -1155,6 +1238,7 @@ smirk_cat /😼/
 smoking /🚬/
 snail /🐌/
 snake /🐍/
+sneezing_face /🤧/
 snowboarder /🏂/
 snowflake /❄️/
 snowman /⛄️/
@@ -1185,6 +1269,8 @@ spider /🕷/
 spider_web /🕸/
 spiral_calendar /🗓/
 spiral_notepad /🗒/
+spoon /🥄/
+squid /🦑/
 squirrel //
 sri_lanka /🇱🇰/
 st_barthelemy /🇧🇱/
@@ -1204,6 +1290,7 @@ statue_of_liberty /🗽/
 steam_locomotive /🚂/
 stew /🍲/
 stop_button /⏹/
+stop_sign /🛑/
 stopwatch /⏱/
 straight_ruler /📏/
 strawberry /🍓/
@@ -1211,6 +1298,7 @@ stuck_out_tongue /😛/
 stuck_out_tongue_closed_eyes /😝/
 stuck_out_tongue_winking_eye /😜/
 studio_microphone /🎙/
+stuffed_flatbread /🥙/
 sudan /🇸🇩/
 sun_behind_large_cloud /🌥/
 sun_behind_rain_cloud /🌦/
@@ -1305,6 +1393,7 @@ truck /🚚/
 trumpet /🎺/
 tshirt /👕/
 tulip /🌷/
+tumbler_glass /🥃/
 tunisia /🇹🇳/
 turkey /🦃/
 turkmenistan /🇹🇲/
@@ -1393,15 +1482,39 @@ white_medium_small_square /◽️/
 white_medium_square /◻️/
 white_small_square /▫️/
 white_square_button /🔳/
+wilted_flower /🥀/
 wind_chime /🎐/
 wind_face /🌬/
 wine_glass /🍷/
 wink /😉/
 wolf /🐺/
 woman /👩/
+woman_artist /👩‍🎨/
+woman_astronaut /👩‍🚀/
+woman_cartwheeling /🤸‍♀️/
+woman_cook /👩‍🍳/
+woman_facepalming /🤦‍♀️/
+woman_factory_worker /👩‍🏭/
+woman_farmer /👩‍🌾/
+woman_firefighter /👩‍🚒/
+woman_health_worker /👩‍⚕️/
+woman_judge /👩‍⚖️/
+woman_juggling /🤹‍♀️/
+woman_mechanic /👩‍🔧/
+woman_office_worker /👩‍💼/
+woman_pilot /👩‍✈️/
+woman_playing_handball /🤾‍♀️/
+woman_playing_water_polo /🤽‍♀️/
+woman_scientist /👩‍🔬/
+woman_shrugging /🤷‍♀️/
+woman_singer /👩‍🎤/
+woman_student /👩‍🎓/
+woman_teacher /👩‍🏫/
+woman_technologist /👩‍💻/
 woman_with_turban /👳‍♀️/
 womans_clothes /👚/
 womans_hat /👒/
+women_wrestling /🤼‍♀️/
 womens /🚺/
 world_map /🗺/
 worried /😟/
