@@ -29,6 +29,7 @@ File.open(jisyo_path, 'w') do |f|
   f << DATA.read.gsub(/%VERSION%/, gemoji_version)
   f << File.read(license_path).gsub(/^/, ";; ")
   f << ";;\n"
+  f << ";; okuri-ari entries.\n"
   f << ";; okuri-nasi entries.\n"
 
   entries.each do |entry|
