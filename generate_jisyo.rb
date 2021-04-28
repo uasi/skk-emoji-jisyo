@@ -2,7 +2,14 @@
 
 require 'time'
 require 'bundler'
+require 'optparse'
 Bundler.require
+
+prefix = ''
+
+opt = OptionParser.new
+opt.on('-p VAL', '--prefix=VAL') do |p| prefix = p end
+opt.parse ARGV
 
 Entry = Struct.new(:name, :raw) do
   def <=>(that)
@@ -33,7 +40,7 @@ File.open(jisyo_path, 'w') do |f|
   f << ";; okuri-nasi entries.\n"
 
   entries.each do |entry|
-    f << "#{entry.name} /#{entry.raw}/\n"
+    f << "#{prefix}#{entry.name} /#{entry.raw}/\n"
   end
 end
 
