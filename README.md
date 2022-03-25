@@ -21,6 +21,18 @@ AquaSKK の環境設定の「辞書」タブを開き、「SKK 辞書(UTF-8)」�
 
 辞書が読み込まれない場合、しばらく待つか、入力ソースをことえりなどに切り替えてから AquaSKK に戻します。
 
+### ibus-skk (Linux)
+
+AquaSKK同様に辞書ファイルを任意の場所にダウンロードします。次の例では、既定のユーザ辞書とおなじ場所にしました。
+
+```bash
+cd ~/.config/ibus-skk/
+curl -O https://raw.githubusercontent.com/uasi/skk-emoji-jisyo/master/SKK-JISYO.emoji.utf8
+```
+
+ibus-skkの「設定」の「辞書」を開き「追加」ボタンをおして、ダウンロードしたファイルを「ユーザ辞書」として登録します。
+
+
 使い方
 ------
 
