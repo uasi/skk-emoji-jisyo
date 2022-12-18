@@ -1,7 +1,7 @@
 ;; -*- fundamental -*- ; coding: utf-8 -*-
 ;; Emoji dictionary for SKK system
 ;;
-;; Generated using gemoji 4.0.0.rc2
+;; Generated using gemoji 4.0.1
 ;;
 ;; The MIT License (MIT)
 ;; 
@@ -151,6 +151,7 @@ bath /🛀/
 bathtub /🛁/
 battery /🔋/
 beach_umbrella /🏖️/
+beans /🫘/
 bear /🐻/
 bearded_person /🧔/
 beaver /🦫/
@@ -181,6 +182,7 @@ biohazard /☣️/
 bird /🐦/
 birthday /🎂/
 bison /🦬/
+biting_lip /🫦/
 black_cat /🐈‍⬛/
 black_circle /⚫/
 black_flag /🏴/
@@ -249,6 +251,7 @@ brown_heart /🤎/
 brown_square /🟫/
 brunei /🇧🇳/
 bubble_tea /🧋/
+bubbles /🫧/
 bucket /🪣/
 bug /🐛/
 building_construction /🏗️/
@@ -411,6 +414,7 @@ cookie /🍪/
 cool /🆒/
 cop /👮/
 copyright /©️/
+coral /🪸/
 corn /🌽/
 costa_rica /🇨🇷/
 cote_divoire /🇨🇮/
@@ -440,6 +444,7 @@ crossed_fingers /🤞/
 crossed_flags /🎌/
 crossed_swords /⚔️/
 crown /👑/
+crutch /🩼/
 cry /😢/
 crying_cat_face /😿/
 crystal_ball /🔮/
@@ -507,6 +512,7 @@ dolphin /🐬/
 dominica /🇩🇲/
 dominican_republic /🇩🇴/
 door /🚪/
+dotted_line_face /🫥/
 doughnut /🍩/
 dove /🕊️/
 dragon /🐉/
@@ -543,7 +549,8 @@ elevator /🛗/
 elf /🧝/
 elf_man /🧝‍♂️/
 elf_woman /🧝‍♀️/
-email /✉️/
+email /📧/
+empty_nest /🪹/
 end /🔚/
 england /🏴󠁧󠁢󠁥󠁮󠁧󠁿/
 envelope /✉️/
@@ -566,7 +573,14 @@ eye /👁️/
 eye_speech_bubble /👁️‍🗨️/
 eyeglasses /👓/
 eyes /👀/
+face_exhaling /😮‍💨/
+face_holding_back_tears /🥹/
+face_in_clouds /😶‍🌫️/
+face_with_diagonal_mouth /🫤/
 face_with_head_bandage /🤕/
+face_with_open_eyes_and_hand_over_mouth /🫢/
+face_with_peeking_eye /🫣/
+face_with_spiral_eyes /😵‍💫/
 face_with_thermometer /🤒/
 facepalm /🤦/
 facepunch /👊/
@@ -752,9 +766,11 @@ hamburger /🍔/
 hammer /🔨/
 hammer_and_pick /⚒️/
 hammer_and_wrench /🛠️/
+hamsa /🪬/
 hamster /🐹/
 hand /✋/
 hand_over_mouth /🤭/
+hand_with_index_finger_and_thumb_crossed /🫰/
 handbag /👜/
 handball_person /🤾/
 handshake /🤝/
@@ -771,12 +787,15 @@ heart /❤️/
 heart_decoration /💟/
 heart_eyes /😍/
 heart_eyes_cat /😻/
+heart_hands /🫶/
+heart_on_fire /❤️‍🔥/
 heartbeat /💓/
 heartpulse /💗/
 hearts /♥️/
 heavy_check_mark /✔️/
 heavy_division_sign /➗/
 heavy_dollar_sign /💲/
+heavy_equals_sign /🟰/
 heavy_exclamation_mark /❗/
 heavy_heart_exclamation /❣️/
 heavy_minus_sign /➖/
@@ -822,10 +841,12 @@ ice_skate /⛸️/
 icecream /🍦/
 iceland /🇮🇸/
 id /🆔/
+identification_card /🪪/
 ideograph_advantage /🉐/
 imp /👿/
 inbox_tray /📥/
 incoming_envelope /📨/
+index_pointing_at_the_viewer /🫵/
 india /🇮🇳/
 indonesia /🇮🇩/
 infinity /♾️/
@@ -847,6 +868,7 @@ japan /🗾/
 japanese_castle /🏯/
 japanese_goblin /👺/
 japanese_ogre /👹/
+jar /🫙/
 jeans /👖/
 jersey /🇯🇪/
 jigsaw /🧩/
@@ -909,6 +931,7 @@ left_luggage /🛅/
 left_right_arrow /↔️/
 left_speech_bubble /🗨️/
 leftwards_arrow_with_hook /↩️/
+leftwards_hand /🫲/
 leg /🦵/
 lemon /🍋/
 leo /♌/
@@ -934,6 +957,7 @@ lollipop /🍭/
 long_drum /🪘/
 loop /➿/
 lotion_bottle /🧴/
+lotus /🪷/
 lotus_position /🧘/
 lotus_position_man /🧘‍♂️/
 lotus_position_woman /🧘‍♀️/
@@ -942,6 +966,7 @@ loudspeaker /📢/
 love_hotel /🏩/
 love_letter /💌/
 love_you_gesture /🤟/
+low_battery /🪫/
 low_brightness /🔅/
 luggage /🧳/
 lungs /🫁/
@@ -974,6 +999,7 @@ mammoth /🦣/
 man /👨/
 man_artist /👨‍🎨/
 man_astronaut /👨‍🚀/
+man_beard /🧔‍♂️/
 man_cartwheeling /🤸‍♂️/
 man_cook /👨‍🍳/
 man_dancing /🕺/
@@ -1029,8 +1055,10 @@ medal_sports /🏅/
 medical_symbol /⚕️/
 mega /📣/
 melon /🍈/
+melting_face /🫠/
 memo /📝/
 men_wrestling /🤼‍♂️/
+mending_heart /❤️‍🩹/
 menorah /🕎/
 mens /🚹/
 mermaid /🧜‍♀️/
@@ -1050,6 +1078,7 @@ milky_way /🌌/
 minibus /🚐/
 minidisc /💽/
 mirror /🪞/
+mirror_ball /🪩/
 mobile_phone_off /📴/
 moldova /🇲🇩/
 monaco /🇲🇨/
@@ -1108,6 +1137,7 @@ necktie /👔/
 negative_squared_cross_mark /❎/
 nepal /🇳🇵/
 nerd_face /🤓/
+nest_with_eggs /🪺/
 nesting_dolls /🪆/
 netherlands /🇳🇱/
 neutral_face /😐/
@@ -1204,7 +1234,9 @@ paintbrush /🖌️/
 pakistan /🇵🇰/
 palau /🇵🇼/
 palestinian_territories /🇵🇸/
+palm_down_hand /🫳/
 palm_tree /🌴/
+palm_up_hand /🫴/
 palms_up_together /🤲/
 panama /🇵🇦/
 pancakes /🥞/
@@ -1247,6 +1279,7 @@ person_in_motorized_wheelchair /🧑‍🦼/
 person_in_tuxedo /🤵/
 person_red_hair /🧑‍🦰/
 person_white_hair /🧑‍🦳/
+person_with_crown /🫅/
 person_with_probing_cane /🧑‍🦯/
 person_with_turban /👳/
 person_with_veil /👰/
@@ -1254,7 +1287,6 @@ peru /🇵🇪/
 petri_dish /🧫/
 philippines /🇵🇭/
 phone /☎️/
-pi_ata /🪅/
 pick /⛏️/
 pickup_truck /🛻/
 pie /🥧/
@@ -1263,6 +1295,7 @@ pig2 /🐖/
 pig_nose /🐽/
 pill /💊/
 pilot /🧑‍✈️/
+pinata /🪅/
 pinched_fingers /🤌/
 pinching_hand /🤏/
 pineapple /🍍/
@@ -1275,6 +1308,7 @@ placard /🪧/
 place_of_worship /🛐/
 plate_with_cutlery /🍽️/
 play_or_pause_button /⏯️/
+playground_slide /🛝/
 pleading_face /🥺/
 plunger /🪠/
 point_down /👇/
@@ -1301,6 +1335,7 @@ potted_plant /🪴/
 pouch /👝/
 poultry_leg /🍗/
 pound /💷/
+pouring_liquid /🫗/
 pout /😡/
 pouting_cat /😾/
 pouting_face /🙎/
@@ -1308,6 +1343,8 @@ pouting_man /🙎‍♂️/
 pouting_woman /🙎‍♀️/
 pray /🙏/
 prayer_beads /📿/
+pregnant_man /🫃/
+pregnant_person /🫄/
 pregnant_woman /🤰/
 pretzel /🥨/
 previous_track_button /⏮️/
@@ -1377,7 +1414,9 @@ rice_ball /🍙/
 rice_cracker /🍘/
 rice_scene /🎑/
 right_anger_bubble /🗯️/
+rightwards_hand /🫱/
 ring /💍/
+ring_buoy /🛟/
 ringed_planet /🪐/
 robot /🤖/
 rock /🪨/
@@ -1411,6 +1450,7 @@ sagittarius /♐/
 sailboat /⛵/
 sake /🍶/
 salt /🧂/
+saluting_face /🫡/
 samoa /🇼🇸/
 san_marino /🇸🇲/
 sandal /👡/
@@ -1692,6 +1732,7 @@ trident /🔱/
 trinidad_tobago /🇹🇹/
 tristan_da_cunha /🇹🇦/
 triumph /😤/
+troll /🧌/
 trolleybus /🚎/
 trophy /🏆/
 tropical_drink /🍹/
@@ -1788,6 +1829,7 @@ weight_lifting_woman /🏋️‍♀️/
 western_sahara /🇪🇭/
 whale /🐳/
 whale2 /🐋/
+wheel /🛞/
 wheel_of_dharma /☸️/
 wheelchair /♿/
 white_check_mark /✅/
@@ -1812,6 +1854,7 @@ wolf /🐺/
 woman /👩/
 woman_artist /👩‍🎨/
 woman_astronaut /👩‍🚀/
+woman_beard /🧔‍♀️/
 woman_cartwheeling /🤸‍♀️/
 woman_cook /👩‍🍳/
 woman_dancing /💃/
@@ -1854,6 +1897,7 @@ wrench /🔧/
 wrestling /🤼/
 writing_hand /✍️/
 x /❌/
+x_ray /🩻/
 yarn /🧶/
 yawning_face /🥱/
 yellow_circle /🟡/
