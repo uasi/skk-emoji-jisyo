@@ -1,7 +1,7 @@
 ;; -*- fundamental -*- ; coding: utf-8 -*-
 ;; Emoji dictionary for SKK system
 ;;
-;; Generated using gemoji 4.0.1
+;; Generated using gemoji 4.1.0
 ;;
 ;; The MIT License (MIT)
 ;; 
@@ -183,6 +183,7 @@ bird /🐦/
 birthday /🎂/
 bison /🦬/
 biting_lip /🫦/
+black_bird /🐦‍⬛/
 black_cat /🐈‍⬛/
 black_circle /⚫/
 black_flag /🏴/
@@ -511,6 +512,7 @@ dolls /🎎/
 dolphin /🐬/
 dominica /🇩🇲/
 dominican_republic /🇩🇴/
+donkey /🫏/
 door /🚪/
 dotted_line_face /🫥/
 doughnut /🍩/
@@ -665,11 +667,13 @@ flipper /🐬/
 floppy_disk /💾/
 flower_playing_cards /🎴/
 flushed /😳/
+flute /🪈/
 fly /🪰/
 flying_disc /🥏/
 flying_saucer /🛸/
 fog /🌫️/
 foggy /🌁/
+folding_hand_fan /🪭/
 fondue /🫕/
 foot /🦶/
 football /🏈/
@@ -718,6 +722,7 @@ ghost /👻/
 gibraltar /🇬🇮/
 gift /🎁/
 gift_heart /💝/
+ginger_root /🫚/
 giraffe /🦒/
 girl /👧/
 globe_with_meridians /🌐/
@@ -729,6 +734,7 @@ golf /⛳/
 golfing /🏌️/
 golfing_man /🏌️‍♂️/
 golfing_woman /🏌️‍♀️/
+goose /🪿/
 gorilla /🦍/
 grapes /🍇/
 greece /🇬🇷/
@@ -741,6 +747,7 @@ green_square /🟩/
 greenland /🇬🇱/
 grenada /🇬🇩/
 grey_exclamation /❕/
+grey_heart /🩶/
 grey_question /❔/
 grimacing /😬/
 grin /😁/
@@ -758,6 +765,7 @@ guinea_bissau /🇬🇼/
 guitar /🎸/
 gun /🔫/
 guyana /🇬🇾/
+hair_pick /🪮/
 haircut /💇/
 haircut_man /💇‍♂️/
 haircut_woman /💇‍♀️/
@@ -834,6 +842,7 @@ hugs /🤗/
 hungary /🇭🇺/
 hushed /😯/
 hut /🛖/
+hyacinth /🪻/
 ice_cream /🍨/
 ice_cube /🧊/
 ice_hockey /🏒/
@@ -870,6 +879,7 @@ japanese_goblin /👺/
 japanese_ogre /👹/
 jar /🫙/
 jeans /👖/
+jellyfish /🪼/
 jersey /🇯🇪/
 jigsaw /🧩/
 jordan /🇯🇴/
@@ -886,6 +896,7 @@ kenya /🇰🇪/
 key /🔑/
 keyboard /⌨️/
 keycap_ten /🔟/
+khanda /🪯/
 kick_scooter /🛴/
 kimono /👘/
 kiribati /🇰🇮/
@@ -932,6 +943,7 @@ left_right_arrow /↔️/
 left_speech_bubble /🗨️/
 leftwards_arrow_with_hook /↩️/
 leftwards_hand /🫲/
+leftwards_pushing_hand /🫷/
 leg /🦵/
 lemon /🍋/
 leo /♌/
@@ -942,6 +954,7 @@ liberia /🇱🇷/
 libra /♎/
 libya /🇱🇾/
 liechtenstein /🇱🇮/
+light_blue_heart /🩵/
 light_rail /🚈/
 link /🔗/
 lion /🦁/
@@ -1035,6 +1048,7 @@ mans_shoe /👞/
 mantelpiece_clock /🕰️/
 manual_wheelchair /🦽/
 maple_leaf /🍁/
+maracas /🪇/
 marshall_islands /🇲🇭/
 martial_arts_uniform /🥋/
 martinique /🇲🇶/
@@ -1094,6 +1108,7 @@ montenegro /🇲🇪/
 montserrat /🇲🇸/
 moon /🌔/
 moon_cake /🥮/
+moose /🫎/
 morocco /🇲🇦/
 mortar_board /🎓/
 mosque /🕌/
@@ -1256,6 +1271,7 @@ passenger_ship /🛳️/
 passport_control /🛂/
 pause_button /⏸️/
 paw_prints /🐾/
+pea_pod /🫛/
 peace_symbol /☮️/
 peach /🍑/
 peacock /🦚/
@@ -1300,6 +1316,7 @@ pinched_fingers /🤌/
 pinching_hand /🤏/
 pineapple /🍍/
 ping_pong /🏓/
+pink_heart /🩷/
 pirate_flag /🏴‍☠️/
 pisces /♓/
 pitcairn_islands /🇵🇳/
@@ -1415,6 +1432,7 @@ rice_cracker /🍘/
 rice_scene /🎑/
 right_anger_bubble /🗯️/
 rightwards_hand /🫱/
+rightwards_pushing_hand /🫸/
 ring /💍/
 ring_buoy /🛟/
 ringed_planet /🪐/
@@ -1492,6 +1510,7 @@ service_dog /🐕‍🦺/
 seven /7️⃣/
 sewing_needle /🪡/
 seychelles /🇸🇨/
+shaking_face /🫨/
 shallow_pan_of_food /🥘/
 shamrock /☘️/
 shark /🦈/
@@ -1849,7 +1868,9 @@ wind_chime /🎐/
 wind_face /🌬️/
 window /🪟/
 wine_glass /🍷/
+wing /🪽/
 wink /😉/
+wireless /🛜/
 wolf /🐺/
 woman /👩/
 woman_artist /👩‍🎨/
