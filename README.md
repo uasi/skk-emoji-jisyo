@@ -43,6 +43,7 @@ ibus-skkの「設定」の「辞書」を開き「追加」ボタンをおして
 更新履歴
 --------
 
+- v0.0.9 2023-08-27 絵文字名の定義データを [gemoji 4.1.0](https://github.com/github/gemoji/releases/tag/v4.1.0) に更新。
 - v0.0.8 2022-12-18 絵文字名の定義データを [gemoji 4.0.1](https://github.com/github/gemoji/releases/tag/v4.0.1) に更新。
 - v0.0.7 2020-08-14 絵文字名の定義データを [gemoji 4.0.0.rc2](https://github.com/github/gemoji/releases/tag/v4.0.0.rc2) に更新。
 - v0.0.6 2018-08-30 libskk で辞書をロードできない問題を修正。
